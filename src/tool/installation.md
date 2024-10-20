@@ -11,13 +11,13 @@ instructions below.
 To install on macOS we provide a [Homebrew][] tap which provides the
 `git-ps-rs` formula. To use it first you need to add the tap as follows.
 
-	brew tap "uptech/homebrew-oss"
+	brew tap "drewdeponte/oss"
 
 This basically registers our tap as another source for packages for your
 [Homebrew][]. Enabling you to do things like install the Git Patch Stack
 command line tool as follows.
 
-	brew install uptech/oss/git-ps-rs
+	brew install git-ps-rs
 
 Because you have registered the tap you can also do useful things like upgrade
 your version of the Git Patch Stack command line tool as follows.
